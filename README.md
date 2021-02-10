@@ -17,6 +17,7 @@ scoop bucket add jdp https://github.com/dpurge/jdp-scoop.git
 scoop install youtube-dl
 scoop install bazel
 scoop install joplin
+scoop install pdftk
 ```
 
 ## Cleanup
